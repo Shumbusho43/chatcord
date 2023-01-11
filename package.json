@@ -1,0 +1,25 @@
+{
+  "name": "chatcord",
+  "version": "1.0.0",
+  "description": "Real time chat with rooms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shumbusho43/chatcord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shumbusho43/chatcord/issues"
+  },
+  "homepage": "https://github.com/Shumbusho43/chatcord#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.4"
+  }
+}
